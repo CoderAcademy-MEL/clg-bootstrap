@@ -1,0 +1,15 @@
+.avatar-size {
+  width: 300px;
+}
+.outline {
+  border: black solid 2px;
+}
+.fill-green {
+  background-color: green;
+}
+.fill-red {
+  background-color: red;
+}
+.fill-blue {
+  background-color: blue;
+}
