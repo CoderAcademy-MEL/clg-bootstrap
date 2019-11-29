@@ -15,7 +15,7 @@
 Bootstrap was created at Twitter to help give internal tools a consistent look. It is a CSS framework for building responsive, mobile-first Web pages. Bootstrap's primary goal is creating informative web pages, as opposed to Web Apps. Bootstrap provides a style definition for all HTML elements. This helps to give the website a uniform feel across all browsers, remember that different browsers will have different default styles. 
 
 ## Linking Bootstrap to your Project
-[Bootstrap Getting Started](https://getbootstrap.com/docs/4.4/getting-started/introduction/) 
+[Bootstrap Getting Started](https://getbootstrap.com/docs/4.4/getting-started/introduction/)  
 Bootstrap is primarily a CSS Framework; however, some components require extra JavaScript libraries to work. A list of these components can be found at the link above. For today we will just be using the CSS file. 
 To add Bootstrap to our project, add this inside of the `<head>` tag. 
 ```<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.0/css/bootstrap.min.css" integrity="sha384-SI27wrMjH3ZZ89r4o+fGIJtnzkAnFs3E4qz9DIYioCQ5l9Rd/7UAa8DHcaL8jkWt" crossorigin="anonymous">``` 
@@ -88,7 +88,7 @@ By default, Bootstrap will try to squeeze content to fit inside of a row. You ca
 ```
 
 ## Buttons
-[Bootstrap Buttons](https://getbootstrap.com/docs/4.0/components/buttons/) 
+[Bootstrap Buttons](https://getbootstrap.com/docs/4.0/components/buttons/)  
 Bootstrap also comes with a collection of components that we can add to a project right away. One useful one is the button component.
 ```html
 <button type="button" class="btn">Im a Button!</button>
@@ -116,7 +116,7 @@ cd into the `challenge1` directory. In there, you will find `layout.html`. The p
 ![Mobile](./docs/Mobile-Wireframe.png)
 
 # Challenge 2 - Beast Mode
-[Boostrap Forms](https://getbootstrap.com/docs/4.0/components/forms/) 
+[Boostrap Forms](https://getbootstrap.com/docs/4.0/components/forms/)  
 Part of becoming a good developer is learning to read documentation to be able to implement a new idea or technology in your code. For this challenge, I want you to follow the link above to research the form component and the use that knowledge to create a form that looks like the image below. 
 ![Form](./docs/form-final.png)
 
