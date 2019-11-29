@@ -66,13 +66,13 @@ Some times you will will want to specify exactly how much space a certain part o
 The naming convention for boostrap columns is: 
 `col` - "size" - "number of spaces" 
 So `col-sm-6` would mean, that on a small viewport (576px - 768px) take up 6 column slots.
-|Size| Prefix | Max Width | Size Range |
-|---|---|---|---|
-|Extra Large | `col-xl` |1140px| > 1200px|
-|Large| `col-lg` |960px| > 992px|
-|Medium| `col-md`|720px| > 768px |
-| Small |`col-sm`|540px |> 578px|
-|Extra Small | `col-xs` | none (auto) | < 578px|
+| Size | Prefix | Max Width | Size Range |
+|:-----|:-------|:----------|:-----------|
+| Extra Large | `col-xl` | 1140px | > 1200px |
+| Large | `col-lg` | 960px | > 992px |
+| Medium | `col-md` | 720px | > 768px |
+| Small | `col-sm` | 540px | > 578px |
+| Extra Small | `col-xs` | none (auto) | < 578px |
 All columns have a 15px 'gutter' on either side, so allow an extra 30px if making a tightly aligned design.
 
 By default, Bootstrap will try to squeeze content to fit inside of a row. You can specify how many rows coulumns a row has to make the content wrap.
