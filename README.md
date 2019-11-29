@@ -23,7 +23,7 @@ This works in the same manner that we have been using to add our local CSS files
 You should see that once we add this link and refresh our page, the style of our page has been updated. 
 
 ## Bootstrap 12 Grid System
-Bootstrap's Grid system uses rows, columns, and containers to create layouts and align content. It built using FlexBox and used what is known as a '12 Column Grid'. It is a way of breaking down our page into sections of different widths. It also gives us the ability to change how much space a section should take and different view sizes (i.e., a different Layout for Web and for mobile.) 
+Bootstrap's Grid system uses rows, columns, and containers to create layouts and align content. It built using FlexBox and used what is known as a '12 Column Grid'. It is a way of breaking down our page into sections of different widths. It also gives us the ability to change how much space a section should take and different view sizes (i.e., a different Layout for Web and for mobile.)    
 ![BootstrapGrid](https://www.c-sharpcorner.com/article/bootstrap-grid-system/Images/1.png)
 
 ## Creating a Layout with Bootstrap
