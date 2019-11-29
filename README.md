@@ -65,7 +65,8 @@ Bootstrap will automatically divide your row to fit the number of columns you ha
 Some times you will will want to specify exactly how much space a certain part of you page takes up. For this we can add a screen size and width to the column class.
 The naming convention for boostrap columns is: 
 `col` - "size" - "number of spaces" 
-So `col-sm-6` would mean, that on a small viewport (576px - 768px) take up 6 column slots.
+So `col-sm-6` would mean, that on a small viewport (576px - 768px) take up 6 column slots.  
+
 | Size | Prefix | Max Width | Size Range |
 |:-----|:-------|:----------|:-----------|
 | Extra Large | `col-xl` | 1140px | > 1200px |
@@ -73,6 +74,7 @@ So `col-sm-6` would mean, that on a small viewport (576px - 768px) take up 6 col
 | Medium | `col-md` | 720px | > 768px |
 | Small | `col-sm` | 540px | > 578px |
 | Extra Small | `col-xs` | none (auto) | < 578px |
+
 All columns have a 15px 'gutter' on either side, so allow an extra 30px if making a tightly aligned design.
 
 By default, Bootstrap will try to squeeze content to fit inside of a row. You can specify how many rows coulumns a row has to make the content wrap.
